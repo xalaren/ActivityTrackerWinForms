@@ -1,3 +1,3 @@
-#Activity Tracker (WinForms)
+# Activity Tracker (WinForms)
 
 Приложение для фиксации физической активности
